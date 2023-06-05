@@ -1,0 +1,247 @@
+
+
+.menubar{
+    -fx-background-color:  white;
+    
+}
+.labell{
+ -fx-text-fill: black;
+-fx-font-weight: bold;
+-fx-font-size: 33px;
+-fx-min-width: 19;
+-fx-min-height: 49;
+
+}
+.left{
+    -fx-background-color:  E9AB84;
+    -fx-min-width: 177;
+    -fx-min-height: 450;
+     -fx-pref-width: 177;
+    -fx-pref-height: 443;
+    
+}
+.right{
+    -fx-background-color: E9AB84;
+    -fx-min-width: 406;
+    -fx-min-height: 450;
+    -fx-spacing: 20;
+    -fx-padding: 10;
+}
+.buttom{
+    -fx-background-color: E9AB84;
+    -fx-min-width: 1264px;
+    -fx-min-height: 59;
+    -fx-pref-width: 1264px;
+    -fx-pref-height: 59;
+    
+}
+
+.order{
+-fx-min-width: 150px;
+-fx-min-height: 26;
+-fx-background-color:  #ddd4b3;
+-fx-pref-width: 200px;
+-fx-pref-height: 26;  
+-fx-text-fill: black;
+-fx-font-weight: bold;
+-fx-font-size: 12px;
+    
+}
+.cancel{
+-fx-min-width: 150px;
+-fx-min-height: 26;
+-fx-background-color:  #ddd4b3;
+-fx-pref-width: 200px;
+-fx-pref-height: 26;  
+-fx-text-fill: black;
+-fx-font-weight: bold;
+-fx-font-size: 12px;
+}
+.payment{
+ -fx-min-width: 150px;
+-fx-min-height: 26;
+-fx-background-color:  #ddd4b3;
+-fx-pref-width: 200px;
+-fx-pref-height: 26;  
+-fx-text-fill: black;
+-fx-font-weight: bold;
+-fx-font-size: 12px;
+}
+.manage{
+-fx-min-width: 150px;
+-fx-min-height: 26;  
+-fx-background-color:  #ddd4b3;
+-fx-pref-width: 200px;
+-fx-pref-height: 26; 
+-fx-text-fill: black;
+-fx-font-weight: bold;
+-fx-font-size: 12px;
+}
+.managet{
+-fx-min-width: 150px;
+-fx-min-height: 26; 
+-fx-background-color:  #ddd4b3;
+-fx-pref-width: 200px;
+-fx-pref-height: 26; 
+-fx-text-fill: black;
+-fx-font-weight: bold;
+-fx-font-size: 12px;
+}
+.sales{
+ -fx-min-width: 150px;
+-fx-min-height: 26; 
+-fx-background-color:  #ddd4b3;
+-fx-pref-width: 200px;
+-fx-pref-height: 26;
+-fx-text-fill: black;
+-fx-font-weight: bold;
+-fx-font-size: 12px;
+}
+.exit{
+-fx-min-width: 150px;
+-fx-min-height: 26; 
+-fx-background-color:  #ddd4b3;
+-fx-pref-width: 200px;
+-fx-pref-height: 26; 
+-fx-text-fill: black;
+-fx-font-weight: bold;
+-fx-font-size: 12px;
+}
+.motherboard{
+ -fx-min-width: 150px;
+-fx-min-height: 26; 
+-fx-background-color:  #ddd4b3;
+-fx-pref-width: 200px;
+-fx-pref-height: 26; 
+-fx-text-fill: black;
+-fx-font-weight: bold;
+-fx-font-size: 12px;
+    
+}
+.monitor{
+    -fx-min-width: 150px;
+-fx-min-height: 26; 
+-fx-background-color:  #ddd4b3;
+-fx-pref-width: 200px;
+-fx-pref-height: 26; 
+-fx-text-fill: black;
+-fx-font-weight: bold;
+-fx-font-size: 12px;
+}
+.ram{
+    -fx-min-width: 150px;
+-fx-min-height: 26; 
+-fx-background-color:  #ddd4b3;
+-fx-pref-width: 200px;
+-fx-pref-height: 26; 
+-fx-text-fill: black;
+-fx-font-weight: bold;
+-fx-font-size: 12px;
+}
+.hddssd{
+    -fx-min-width: 150px;
+-fx-min-height: 26; 
+-fx-background-color:  #ddd4b3;
+-fx-pref-width: 200px;
+-fx-pref-height: 26; 
+-fx-text-fill: black;
+-fx-font-weight: bold;
+-fx-font-size: 12px;
+}
+.keyboard{
+    -fx-min-width: 150px;
+-fx-min-height: 26; 
+-fx-background-color:  #ddd4b3;
+-fx-pref-width: 200px;
+-fx-pref-height: 26; 
+-fx-text-fill: black;
+-fx-font-weight: bold;
+-fx-font-size: 12px;
+}
+.mouse{
+    -fx-min-width: 150px;
+-fx-min-height: 26; 
+-fx-background-color:  #ddd4b3;
+-fx-pref-width: 200px;
+-fx-pref-height: 26; 
+-fx-text-fill: black;
+-fx-font-weight: bold;
+-fx-font-size: 12px;
+}
+.headset{
+    -fx-min-width: 150px;
+-fx-min-height: 26; 
+-fx-background-color:  #ddd4b3;
+-fx-pref-width: 200px;
+-fx-pref-height: 26; 
+-fx-text-fill: black;
+-fx-font-weight: bold;
+-fx-font-size: 12px;
+}
+.videocard{
+   -fx-min-width: 150px;
+-fx-min-height: 26; 
+-fx-background-color:  #ddd4b3;
+-fx-pref-width: 200px;
+-fx-pref-height: 26; 
+-fx-text-fill: black;
+-fx-font-weight: bold;
+-fx-font-size: 12px; 
+}
+.stackpane{
+ -fx-pref-width: 195;
+-fx-pref-height: 154;
+ -fx-border-color: black;
+    
+}
+.stackpane1{
+ -fx-pref-width: 195;
+-fx-pref-height: 154;
+ -fx-border-color: black;
+    
+}
+.stackpane2{
+ -fx-pref-width: 195;
+-fx-pref-height: 154;
+ -fx-border-color: black;
+    
+}
+.stackpane3{
+ -fx-pref-width: 195;
+-fx-pref-height: 154;
+ -fx-border-color: black;
+    
+}
+.stackpane4{
+ -fx-pref-width: 195;
+-fx-pref-height: 154;
+ -fx-border-color: black;
+    
+}
+.stackpane5{
+ -fx-pref-width: 195;
+-fx-pref-height: 154;
+ -fx-border-color: black;
+    
+}
+.stackpane6{
+ -fx-pref-width: 195;
+-fx-pref-height: 154;
+ -fx-border-color: black;
+    
+}
+.stackpane7{
+ -fx-pref-width: 195;
+-fx-pref-height: 154;
+ -fx-border-color: black;
+    
+}
+.stackpane8{
+ -fx-pref-width: 195;
+-fx-pref-height: 154;
+ -fx-border-color: black;
+    
+}
+
+
+
